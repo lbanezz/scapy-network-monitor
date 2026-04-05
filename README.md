@@ -35,7 +35,7 @@ O projeto simula um sistema básico de detecção de intrusão (IDS), capturando
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seu-repositorio.git
+git clone https://github.com/lbanezz/scapy-network-monitor.git
 cd seu-repositorio
 ```
 
