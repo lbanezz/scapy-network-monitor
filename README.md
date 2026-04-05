@@ -20,8 +20,6 @@ Ferramenta de monitoramento de rede em tempo real desenvolvida em Python para an
 
 - Python
 - Scapy
-- Streamlit
-- Pandas
 
 ---
 
